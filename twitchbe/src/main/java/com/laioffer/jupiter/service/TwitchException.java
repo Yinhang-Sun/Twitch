@@ -5,14 +5,3 @@ public class TwitchException extends RuntimeException {
         super(errorMessage);
     }
 }
-
-
-//package com.laioffer.jupiter.service;
-//
-//public class TwitchException extends RuntimeException {
-//    public TwitchException(String errorMessage) {
-//        super(errorMessage);
-//    }
-//
-//
-//}
