@@ -21,8 +21,8 @@ import java.util.*;
 @Service
 public class GameService {
 
-    private static final String TOKEN = "Bearer 0hdu3hb9azppbnlzqbzftjoxtniu6l";
-    private static final String CLIENT_ID = "kdgeg8bn3le2t4a0w1ufjl6e87k0t5";
+    private static final String TOKEN = "";
+    private static final String CLIENT_ID = "";
     private static final String TOP_GAME_URL = "https://api.twitch.tv/helix/games/top?first=%s";
     private static final String GAME_SEARCH_URL_TEMPLATE = "https://api.twitch.tv/helix/games?name=%s";
     private static final int DEFAULT_GAME_LIMIT = 20;
